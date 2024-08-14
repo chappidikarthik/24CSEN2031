@@ -1,4 +1,4 @@
-##input devices
+##INPUT DEVICES
 keyboard
 computer mice
 scanner
@@ -6,7 +6,7 @@ cameras
 joysticks
 microphones
 
-##output devices
+##OUTPUT DEVICES
 monitor
 printer
 speaker
