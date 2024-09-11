@@ -1,0 +1,13 @@
+// Opeators in C
+#include <stdio.h>
+
+int main() {
+    int a = 9, b= 5;
+    int c;
+    
+    //Conditional Operator - Ternary operator
+    c=(a<b)?a:b;
+    printf("smallest number of two numbers a and b is %d",c);
+    return 0;
+}
+
