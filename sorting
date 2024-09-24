@@ -1,0 +1,13 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main()
+{
+ int a=4,b=2, temparory;
+ printf("\n before sorting;a=%d,b=%d",a,b);
+ if (a>b){// swap the numbers
+ temparory=a; a=b; b=temparory;
+}
+printf("\n after sorting;a=%d,b=%d",a,b);
+return 0;
+}
