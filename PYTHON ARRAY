@@ -25,3 +25,24 @@ printf("%d\n",a[9]);
 printf("%d\n",a[10]);
 return 0;
 }
+
+
+######*****************#####
+########***************####
+C COMPAILER ONLINE ARRAY
+
+#include <stdio.h>
+int main()
+{
+    int a[3];
+    printf("elements of the array are:");
+
+for(int i=0;i<2;i++)
+scanf("%d\n",a[i]);
+printf("elements of the array are:");
+for(int i=0;i<2;i++)
+scanf("%d\n",a[i]);
+
+//"i"is called the index variable
+return 0;
+}
