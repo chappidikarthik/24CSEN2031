@@ -29,7 +29,7 @@ return 0;
 
 ######*****************#####
 ########***************####
-C COMPAILER ONLINE ARRAY
+C COMPILER ONLINE ARRAY
 
 #include <stdio.h>
 int main()
