@@ -14,3 +14,9 @@ int main() {
 
     return 0;
 }
+Value of c = 11
+Value of c = 8
+Value of c = 5
+
+
+=== Code Execution Successful ===
