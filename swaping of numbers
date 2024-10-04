@@ -14,6 +14,13 @@ int main()
 printf("\n after sorting;a=%d,b=%d,c=%d",a,b,c);
 return 0;
 }
+before sorting;a=4,b=2,c=6
+ after sorting;a=2,b=4,c=6
+
+=== Code Execution Successful ===
+
+
+
 ########BY FOUR NUMBERS###################
 // Online C compiler to run C program online
 #include <stdio.h>
@@ -33,3 +40,7 @@ printf("\n after sorting;a=%d,b=%d,c=%d,d=%d",a,b,c,d);
 }
 return 0;
 }
+ before sorting;a=4,b=2,c=6,d=5
+ after sorting;a=2,b=4,c=5,d=6
+
+=== Code Execution Successful ===
