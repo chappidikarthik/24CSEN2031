@@ -36,7 +36,7 @@ int main() {
   return 0;
 }
 
-/*
+/* OUTPUT
 /tmp/QdqX5wYiHr.o
 Enter two integers
 a =10
