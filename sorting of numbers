@@ -11,3 +11,7 @@ int main()
 printf("\n after sorting;a=%d,b=%d",a,b);
 return 0;
 }
+before sorting;a=4,b=2
+ after sorting;a=2,b=4
+
+=== Code Execution Successful ===
