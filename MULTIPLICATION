@@ -11,6 +11,7 @@ int x=5, y=6, z=2;
 printf("multiplication of three numbers is:%d",multiply(x,y,z));
 return 0;
 }
+============output==============
 multiplication of three numbers is:60
 
 === Code Execution Successful ===
