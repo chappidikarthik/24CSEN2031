@@ -10,6 +10,7 @@ int main() {
     printf("smallest number of two numbers a and b is %d",c);
     return 0;
 }
+==============output===================
 smallest number of two numbers a and b is 5
 
 === Code Execution Successful ===
