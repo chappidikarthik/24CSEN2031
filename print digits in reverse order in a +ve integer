@@ -18,6 +18,7 @@ int main() {
   
    return 0;
 }
+===========output============
 enter any number to be reversed: 52
 
 
