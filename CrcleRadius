@@ -9,6 +9,7 @@ int main()
     printf("area of the circle is\t%f",PI*radius*radius);
     return 0;
 }
+===============output==============
 enter the radius of the circle:5
 area of the circle is	78.500000
 
