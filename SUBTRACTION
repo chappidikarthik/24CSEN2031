@@ -11,6 +11,9 @@ int x=10, y=6, z=2;
 printf("subration of three numbers is:%d",sum(x,y,z));
 return 0;
 }
+
+-------output------
+
 subration of three numbers is:2
 
 === Code Execution Successful ===
