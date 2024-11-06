@@ -23,6 +23,7 @@ int main() {
    
    return 0;
 }
+==================output=============
 enter any number: 14
 
 
