@@ -15,6 +15,7 @@ else
 printf("THE ENTERED NUMBER IS ZERO");
 return 0;
 }
+===========output=================
 THE NUMBER -89 IS NEGATIVE and ODD
 
 === Code Execution Successful ===
